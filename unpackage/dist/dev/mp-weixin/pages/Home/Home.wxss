@@ -1,0 +1,122 @@
+
+.my-swipe .van-swipe-item.data-v-280eabe8 {
+    color: #fff;
+    font-size: 20px;
+    line-height: 150px;
+    text-align: center;
+    background-color: #39a9ed;
+	border-radius: 15rpx;
+}
+swiper.data-v-280eabe8{
+	width:93%;
+	margin:25rpx;  
+	height: 300rpx;
+	border-radius: 15rpx;
+}
+swiper swiper-item image.data-v-280eabe8{
+	width: 100%;
+	height:300rpx;
+	border-radius: 15rpx;
+}
+
+
+.iconList.data-v-c4500948{
+	width: 100%;
+	height: 150rpx;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+image.data-v-c4500948{
+	width: 100rpx;
+	height: 100rpx;
+}
+.iconList .iconItem.data-v-c4500948{
+	width: 25%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.iconList .iconItem text.data-v-c4500948{
+	font-size: 30rpx;
+}
+
+
+.musicList{
+	margin-top: 20rpx;
+}
+.musicTop{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 25rpx;
+}
+.musicTop .text1{
+	font-weight: 900;
+	font-size: 36rpx;
+}
+.musicTop .musicTopContent{
+	width: 120rpx;
+	height: 40rpx;
+	border: 1px solid black;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.musicTop .musicTopContent text{
+	font-size: 22rpx;
+}
+swiper {
+	width:93%;
+	margin:0 25rpx 25rpx 25rpx;  
+	height: 420rpx;
+}
+swiper swiper-item .image1{
+	border-radius: 5px;
+	width:220rpx;
+	height:260rpx;
+}
+swiper swiper-item text{
+	font-size: 24rpx;
+}
+swiper swiper-item .iconItem{
+	position: relative;
+	top:-340rpx;
+	left:80rpx;
+	display: flex;
+}
+swiper swiper-item .iconItem image{
+	width: 30rpx;
+	height: 30rpx;
+}
+swiper swiper-item .iconItem text{
+	color:white;
+	font-size: 24rpx;
+}
+
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+.logo {
+	height: 200rpx;
+	width: 200rpx;
+	margin-top: 200rpx;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 50rpx;
+}
+.text-area {
+	display: flex;
+	justify-content: center;
+}
+.title {
+	font-size: 36rpx;
+	color: #8f8f94;
+}
+

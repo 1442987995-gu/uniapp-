@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "歌曲详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "item-music-detail": "/components/detail/ItemMusicDetail"
+  }
+}

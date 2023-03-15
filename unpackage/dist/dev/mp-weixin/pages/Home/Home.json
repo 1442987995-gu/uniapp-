@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "top-nav": "/components/home/TopNav",
+    "swiper-top": "/components/home/SwiperTop",
+    "icon-list": "/components/home/IconList",
+    "music-list": "/components/home/MusicList"
+  }
+}

@@ -1,0 +1,54 @@
+
+.musicList{
+	margin-top: 20rpx;
+}
+.musicTop{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 25rpx;
+}
+.musicTop .text1{
+	font-weight: 900;
+	font-size: 36rpx;
+}
+.musicTop .musicTopContent{
+	width: 120rpx;
+	height: 40rpx;
+	border: 1px solid black;
+	border-radius: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.musicTop .musicTopContent text{
+	font-size: 22rpx;
+}
+swiper {
+	width:93%;
+	margin:0 25rpx 25rpx 25rpx;  
+	height: 420rpx;
+}
+swiper swiper-item .image1{
+	border-radius: 5px;
+	width:220rpx;
+	height:260rpx;
+}
+swiper swiper-item text{
+	font-size: 24rpx;
+}
+swiper swiper-item .iconItem{
+	position: relative;
+	top:-340rpx;
+	left:80rpx;
+	display: flex;
+}
+swiper swiper-item .iconItem image{
+	width: 30rpx;
+	height: 30rpx;
+}
+swiper swiper-item .iconItem text{
+	color:white;
+	font-size: 24rpx;
+}
+

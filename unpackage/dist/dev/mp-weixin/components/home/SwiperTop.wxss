@@ -1,0 +1,21 @@
+
+.my-swipe .van-swipe-item.data-v-280eabe8 {
+    color: #fff;
+    font-size: 20px;
+    line-height: 150px;
+    text-align: center;
+    background-color: #39a9ed;
+	border-radius: 15rpx;
+}
+swiper.data-v-280eabe8{
+	width:93%;
+	margin:25rpx;  
+	height: 300rpx;
+	border-radius: 15rpx;
+}
+swiper swiper-item image.data-v-280eabe8{
+	width: 100%;
+	height:300rpx;
+	border-radius: 15rpx;
+}
+

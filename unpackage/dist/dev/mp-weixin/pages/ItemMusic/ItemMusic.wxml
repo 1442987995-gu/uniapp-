@@ -1,0 +1,1 @@
+<view><detail-top vue-id="41edcc5a-1" playlist="{{playlist}}" bind:__l="__l"></detail-top><detail-song-list vue-id="41edcc5a-2" songList="{{songList}}" subscribedCount="{{playlist.subscribedCount}}" bind:__l="__l"></detail-song-list><item-foot vue-id="41edcc5a-3" bind:__l="__l"></item-foot></view>

@@ -1,0 +1,23 @@
+
+.iconList.data-v-c4500948{
+	width: 100%;
+	height: 150rpx;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+image.data-v-c4500948{
+	width: 100rpx;
+	height: 100rpx;
+}
+.iconList .iconItem.data-v-c4500948{
+	width: 25%;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.iconList .iconItem text.data-v-c4500948{
+	font-size: 30rpx;
+}
+

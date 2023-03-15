@@ -1,0 +1,21 @@
+
+.TopNav.data-v-03ada41a{
+	display:flex;
+	justify-content: space-between;
+	padding:20rpx 25rpx 0px 25rpx;
+	height: 50rpx;
+	align-items: center;
+}
+.centers.data-v-03ada41a{
+	width: 65%;
+	height: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+text.data-v-03ada41a{
+	font-size: 30rpx;
+}
+.actives.data-v-03ada41a{
+	font-weight: 900;
+}
+

@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/Home/Home",
+    "components/home/SwiperTop",
+    "components/home/IconList",
+    "components/home/MusicList",
+    "pages/ItemMusic/ItemMusic",
+    "components/detail/DetailSongList",
+    "pages/MusicDetail/MusicDetail",
+    "pages/Search/Search",
+    "pages/Login/Login",
+    "pages/InfoUser/InfoUser"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {
+    "van-button": "/wxcomponents/vant-weapp/button/index",
+    "van-icon": "/wxcomponents/vant-weapp/icon/index",
+    "van-swipe": "/wxcomponents/vant-weapp/swipe-cell/index",
+    "van-popup": "/wxcomponents/vant-weapp/popup/index",
+    "van-progress": "/wxcomponents/vant-weapp/progress/index",
+    "item-foot": "/components/ItemFoot"
+  }
+}

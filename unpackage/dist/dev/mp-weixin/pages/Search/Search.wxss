@@ -1,0 +1,70 @@
+
+.delete.data-v-a2f84674{
+	width: 50rpx;
+	height: 50rpx;
+}
+.searchTop.data-v-a2f84674{
+	display: flex;
+	align-items: center;
+	padding: 20rpx;
+}
+.arrow.data-v-a2f84674{
+	width: 60rpx;
+	height: 60rpx;
+}
+.searchInput.data-v-a2f84674{
+	margin-left: 20rpx;
+	border-bottom: 1px solid #999;
+	width: 90%;
+}
+.history.data-v-a2f84674{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20rpx;
+}
+.text1.data-v-a2f84674{
+	font-weight: 600;
+}
+.text2.data-v-a2f84674{
+	margin-left:20rpx;
+	padding: 10rpx;
+	background-color:#cebcbc;
+	border-radius: 30rpx;
+	font-size: 26rpx;
+}
+.musicList.data-v-a2f84674{
+	display: flex;
+	font-size: 28rpx;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20rpx;
+}
+.musicLeft.data-v-a2f84674{
+	width:70%;
+	display: flex;
+	align-items: center;
+}
+.musicName.data-v-a2f84674{
+	display: flex;
+	flex-direction: column;
+	margin-left: 28rpx;
+}
+.musicName .text5.data-v-a2f84674{
+	font-size: 24rpx;
+	color: #8a8a8a;
+	padding-right: 10rpx;
+}
+.singerName.data-v-a2f84674{
+	display: flex;
+}
+.btn1Img.data-v-a2f84674{
+	width: 60rpx;
+	height: 60rpx;
+	margin-right: 20rpx;
+}
+.btn2Img.data-v-a2f84674{
+	width: 60rpx;
+	height: 60rpx;
+}
+

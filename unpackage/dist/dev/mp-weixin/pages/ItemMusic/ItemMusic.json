@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "歌单详情页",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "detail-top": "/components/detail/DetailTop",
+    "detail-song-list": "/components/detail/DetailSongList"
+  }
+}

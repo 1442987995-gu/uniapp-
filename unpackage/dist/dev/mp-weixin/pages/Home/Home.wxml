@@ -1,0 +1,1 @@
+<view><top-nav vue-id="595e4160-1" bind:__l="__l"></top-nav><swiper-top vue-id="595e4160-2" bind:__l="__l"></swiper-top><icon-list vue-id="595e4160-3" bind:__l="__l"></icon-list><music-list vue-id="595e4160-4" bind:__l="__l"></music-list><item-foot vue-id="595e4160-5" bind:__l="__l"></item-foot></view>
